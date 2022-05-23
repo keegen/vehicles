@@ -1,0 +1,60 @@
+{
+ "car": [
+  {
+   "name": "New 2022 BMW 3 Series 330i",
+   "url": "https://www.bmwoflittlerock.com/auto/new-2022-bmw-3-series-330i-little-rock-ar/66312263/",
+   "price": "$46,060",
+   "vin": "3MW5R1J03N8C59561",
+   "exterior_color": "Mineral Grey Metallic",
+   "drivetrain": "RWD"
+  },
+  {
+   "name": "New 2022 BMW X3 sDrive30i",
+   "url": "https://www.bmwoflittlerock.com/auto/new-2022-bmw-x3-sdrive30i-little-rock-ar/66550223/",
+   "price": "$48,180",
+   "vin": "5UX43DP0XN9M62041",
+   "exterior_color": "Jet Black",
+   "drivetrain": "RWD"
+  },
+  {
+   "name": "New 2022 BMW X3 xDrive30i",
+   "url": "https://www.bmwoflittlerock.com/auto/new-2022-bmw-x3-xdrive30i-little-rock-ar/66275033/",
+   "price": "$50,790",
+   "vin": "5UX53DP04N9M42226",
+   "exterior_color": "Dark Graphite",
+   "drivetrain": "AWD"
+  },
+  {
+   "name": "New 2022 BMW X3 xDrive30i",
+   "url": "https://www.bmwoflittlerock.com/auto/new-2022-bmw-x3-xdrive30i-little-rock-ar/66455018/",
+   "price": "$54,220",
+   "vin": "5UX53DP04N9M42078",
+   "exterior_color": "Carbon Black",
+   "drivetrain": "AWD"
+  },
+  {
+   "name": "New 2022 BMW X3 xDrive30i",
+   "url": "https://www.bmwoflittlerock.com/auto/new-2022-bmw-x3-xdrive30i-little-rock-ar/66455015/",
+   "price": "$54,590",
+   "vin": "5UX53DP01N9M54706",
+   "exterior_color": "Mineral",
+   "drivetrain": "AWD"
+  },
+  {
+   "name": "New 2022 BMW X5 sDrive40i",
+   "url": "https://www.bmwoflittlerock.com/auto/new-2022-bmw-x5-sdrive40i-little-rock-ar/65290649/",
+   "price": "$65,895",
+   "vin": "5UXCR4C07N9L92904",
+   "exterior_color": "Blue Metallic",
+   "drivetrain": "RWD"
+  },
+  {
+   "name": "New 2022 BMW X5 xDrive40i",
+   "url": "https://www.bmwoflittlerock.com/auto/new-2022-bmw-x5-xdrive40i-little-rock-ar/66550232/",
+   "price": "$68,095",
+   "vin": "5UXCR6C03N9M61664",
+   "exterior_color": "Green",
+   "drivetrain": "AWD"
+  }
+ ]
+}
